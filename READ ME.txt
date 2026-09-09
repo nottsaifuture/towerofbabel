@@ -1,0 +1,16 @@
+THE TOWER OF BABEL — INTERACTIVE PRESENTATION
+
+Open "Tower of Babel Interactive.html" in Chrome, Edge or Safari.
+The file contains the model and viewer. No installation or internet connection is required.
+Send the ZIP to other people or put it on a USB drive. Recipients should extract it and open the HTML file in their browser.
+
+Drag to rotate and scroll/pinch to zoom.
+Use Show to reveal a cutaway. Top view shows the ground floor from above.
+Go inside selects room viewpoints. Drag to look; W A S D or arrow keys move. Q and E move down and up. Touch screens have direction buttons.
+Open doors animates the hinged doors. Whole house restores the exterior view.
+Full screen is useful for presenting or sharing your screen.
+
+The browser model uses simpler materials than the renders. Upper-floor alignment and stairs remain provisional. Free view has no wall collision. This presentation is not the Unreal playable build.
+
+Source: supplied references and https://www.eghomesltd.com/forsale/darley-avenue-toton
+Three.js 0.180.0, MIT license, included in THIRD-PARTY-LICENSE.txt.
